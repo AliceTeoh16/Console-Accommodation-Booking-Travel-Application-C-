@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1735560784 source:c:\users\asus\onedrive\documents\202409\final project\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<iomanip>
+	<vector>
+	"UserLogin.h"
+	"Booking.h"
+	"Room.h"
+	"Payment.h"
+	"RoomData.h"
+
+1735485968 c:\users\asus\onedrive\documents\202409\final project\userlogin.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
+1735516317 c:\users\asus\onedrive\documents\202409\final project\booking.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<ctime>
+	"Base.h"
+
+1735561882 c:\users\asus\onedrive\documents\202409\final project\room.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<algorithm>
+	<sstream>
+	<cctype>
+	<ctime>
+
+1735206583 c:\users\asus\onedrive\documents\202409\final project\roommanage.h
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<iomanip>
+
+1735560559 c:\users\asus\onedrive\documents\202409\final project\payment.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<iomanip>
+	<vector>
+
+1735564522 c:\users\asus\onedrive\documents\202409\final project\roomdata.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<algorithm>
+	<sstream>
+	<cctype>
+	<ctime>
+	<iomanip>
+	"Booking.h"
+	"Payment.h"
+	"Room.h"
+
+1735480523 c:\users\asus\onedrive\documents\202409\final project\base.h
+	<iostream>
+

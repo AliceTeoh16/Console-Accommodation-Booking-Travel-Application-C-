@@ -1,0 +1,61 @@
+Destination,Hotel,Room Type,Price,Capacity,Amenities,Quantity
+Paris,Hotel Parisian,Standard,100,2,WiFi|Queen Bed|Parking|Breakfast|TV,10
+Paris,Hotel Parisian,Deluxe,150,3,WiFi|King Bed|Gym|Laundry|Mini Fridge,5
+Paris,Hotel Parisian,Suite,250,5,WiFi|Jacuzzi|Kitchenette|Balcony|Room Service,2
+Paris,Luxury Stay,Standard,110,2,WiFi|Queen Bed|Breakfast|Parking|TV,8
+Paris,Luxury Stay,Deluxe,180,3,WiFi|King Bed|Pool Access|Gym|Mini Fridge,6
+Paris,Luxury Stay,Suite,300,5,WiFi|Jacuzzi|Kitchenette|Room Service|Butler Service,3
+Paris,Cozy Paris Inn,Standard,90,2,WiFi|Queen Bed|TV|Parking|Breakfast,10
+Paris,Cozy Paris Inn,Deluxe,140,3,WiFi|King Bed|Gym|Breakfast|Mini Bar,4
+Paris,Cozy Paris Inn,Suite,200,5,WiFi|Jacuzzi|Balcony|Mini Bar|Room Service,2
+Paris,Central Paris Hotel,Standard,105,2,WiFi|Queen Bed|Breakfast|Parking|TV,7
+Paris,Central Paris Hotel,Deluxe,170,3,WiFi|King Bed|Pool|Mini Fridge|Gym,5
+Paris,Central Paris Hotel,Suite,260,5,WiFi|Jacuzzi|Balcony|Room Service|Kitchenette,3
+New York,Times Square Inn,Standard,120,2,WiFi|Queen Bed|Breakfast|Parking|TV,10
+New York,Times Square Inn,Deluxe,180,3,WiFi|King Bed|Pool|Gym|Mini Bar,7
+New York,Times Square Inn,Suite,300,5,WiFi|Jacuzzi|Kitchenette|Balcony|Room Service,4
+New York,Central Park Hotel,Standard,130,2,WiFi|Queen Bed|Breakfast|TV|Parking,8
+New York,Central Park Hotel,Deluxe,200,3,WiFi|King Bed|Gym|Laundry|Mini Bar,6
+New York,Central Park Hotel,Suite,350,5,WiFi|Jacuzzi|Kitchenette|Balcony|Room Service,3
+New York,Broadway Stay,Standard,115,2,WiFi|Queen Bed|Breakfast|TV|Parking,9
+New York,Broadway Stay,Deluxe,170,3,WiFi|King Bed|Gym|Pool Access|Mini Fridge,5
+New York,Broadway Stay,Suite,280,5,WiFi|Jacuzzi|Balcony|Kitchenette|Room Service,2
+New York,Modern NY Hotel,Standard,125,2,WiFi|Queen Bed|Parking|Breakfast|TV,6
+New York,Modern NY Hotel,Deluxe,190,3,WiFi|King Bed|Gym|Laundry|Mini Bar,4
+New York,Modern NY Hotel,Suite,320,5,WiFi|Jacuzzi|Balcony|Kitchenette|Room Service,2
+Tokyo,Shinjuku Hotel,Standard,90,2,WiFi|Futon|Breakfast|TV|Parking,10
+Tokyo,Shinjuku Hotel,Deluxe,130,3,WiFi|King Bed|Gym|Mini Bar|Laundry,8
+Tokyo,Shinjuku Hotel,Suite,250,5,WiFi|Jacuzzi|Balcony|Room Service|Kitchenette,4
+Tokyo,Tokyo Tower Stay,Standard,100,2,WiFi|Queen Bed|Breakfast|Parking|TV,9
+Tokyo,Tokyo Tower Stay,Deluxe,160,3,WiFi|King Bed|Gym|Pool Access|Mini Bar,5
+Tokyo,Tokyo Tower Stay,Suite,300,5,WiFi|Jacuzzi|Balcony|Room Service|Kitchenette,3
+Tokyo,Roppongi Luxe,Standard,85,2,WiFi|Queen Bed|TV|Parking|Breakfast,7
+Tokyo,Roppongi Luxe,Deluxe,140,3,WiFi|King Bed|Gym|Laundry|Mini Bar,6
+Tokyo,Roppongi Luxe,Suite,260,5,WiFi|Jacuzzi|Balcony|Room Service|Kitchenette,3
+Tokyo,Ginza Comfort,Standard,110,2,WiFi|Queen Bed|Breakfast|TV|Parking,8
+Tokyo,Ginza Comfort,Deluxe,190,3,WiFi|King Bed|Gym|Laundry|Mini Bar,6
+Tokyo,Ginza Comfort,Suite,350,5,WiFi|Jacuzzi|Balcony|Room Service|Butler Service,3
+London,The British Inn,Standard,100,2,WiFi|Queen Bed|Breakfast|TV|Parking,9
+London,The British Inn,Deluxe,160,3,WiFi|King Bed|Gym|Pool Access|Mini Bar,5
+London,The British Inn,Suite,280,5,WiFi|Jacuzzi|Balcony|Room Service|Kitchenette,2
+London,Hyde Park Stay,Standard,120,2,WiFi|Queen Bed|Breakfast|Parking|TV,7
+London,Hyde Park Stay,Deluxe,180,3,WiFi|King Bed|Gym|Mini Fridge|Laundry,6
+London,Hyde Park Stay,Suite,320,5,WiFi|Jacuzzi|Balcony|Room Service|Butler Service,4
+London,Westminster Hotel,Standard,115,2,WiFi|Queen Bed|Breakfast|TV|Parking,9
+London,Westminster Hotel,Deluxe,175,3,WiFi|King Bed|Gym|Pool Access|Mini Fridge,5
+London,Westminster Hotel,Suite,300,5,WiFi|Jacuzzi|Balcony|Room Service|Kitchenette,3
+London,Chelsea Inn,Standard,130,2,WiFi|Queen Bed|Parking|Breakfast|TV,6
+London,Chelsea Inn,Deluxe,200,3,WiFi|King Bed|Gym|Laundry|Mini Bar,4
+London,Chelsea Inn,Suite,350,5,WiFi|Jacuzzi|Balcony|Kitchenette|Room Service,2
+Sydney,Harbour View Inn,Standard,95,2,WiFi|Queen Bed|Breakfast|TV|Parking,9
+Sydney,Harbour View Inn,Deluxe,150,3,WiFi|King Bed|Gym|Pool Access|Mini Bar,6
+Sydney,Harbour View Inn,Suite,280,5,WiFi|Jacuzzi|Balcony|Room Service|Kitchenette,4
+Sydney,Sydney Opera Stay,Standard,100,2,WiFi|Queen Bed|Breakfast|Parking|TV,8
+Sydney,Sydney Opera Stay,Deluxe,180,3,WiFi|King Bed|Gym|Mini Fridge|Laundry,5
+Sydney,Sydney Opera Stay,Suite,320,5,WiFi|Jacuzzi|Balcony|Room Service|Butler Service,3
+Sydney,Bondi Beach Hotel,Standard,85,2,WiFi|Queen Bed|TV|Parking|Breakfast,10
+Sydney,Bondi Beach Hotel,Deluxe,140,3,WiFi|King Bed|Gym|Laundry|Mini Bar,6
+Sydney,Bondi Beach Hotel,Suite,260,5,WiFi|Jacuzzi|Balcony|Room Service|Kitchenette,3
+Sydney,Darling Harbour Inn,Standard,110,2,WiFi|Queen Bed|Breakfast|TV|Parking,7
+Sydney,Darling Harbour Inn,Deluxe,190,3,WiFi|King Bed|Gym|Laundry|Mini Bar,4
+Sydney,Darling Harbour Inn,Suite,350,5,WiFi|Jacuzzi|Balcony|Room Service|Butler Service,2
